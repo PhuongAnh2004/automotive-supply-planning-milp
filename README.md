@@ -341,6 +341,6 @@ See `NOTICE.md` for dataset source and attribution/usage notes.
 
 ## Contact
 - Author: Phuong-Anh Duong
-- LinkedIn: `linkedin.com/in/phương-anh-dương-a97bb1259`
+- LinkedIn: linkedin.com/in/phương-anh-dương-a97bb1259
 - Email: dphanhwork204@gmail.com
 
